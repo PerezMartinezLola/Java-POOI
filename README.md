@@ -1,4 +1,4 @@
-![Java POO-I](https://openwebinars.net/blog/introduccion-a-poo-en-java-interfaces-y-paquetes/)
+![Java POO-I](https://cdn.openwebinars.net/media/featured_images/poo-java-interfaces.webp)
 # POO I: Creación de Objetos en Java
 
 La Programación Orientada a Objetos (POO) es un paradigma de programación que permite modelar problemas del mundo real mediante clases y objetos. Java es un lenguaje fuertemente basado en este enfoque, lo que facilita la reutilización de código y la organización de programas complejos.
