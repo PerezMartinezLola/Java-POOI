@@ -9,12 +9,12 @@ En la POO, una clase es una plantilla o modelo que define las características y
 
 Por otro lado, un objeto es una instancia de una clase, es decir, una entidad concreta que sigue el modelo definido por la clase. Cada objeto tiene sus propios valores para las características definidas en la clase y puede ejecutar sus comportamientos.
 
-- Características de una clase:
+- **Características de una clase**:
     - Define atributos, que representan las características o propiedades de los objetos.
     - Contiene métodos, que determinan las acciones o comportamientos que los objetos pueden realizar.
     - Puede servir como base para crear múltiples objetos con características similares.
 
-- Características de un objeto:
+- **Características de un objeto**:
     - Tiene valores específicos para los atributos definidos en la clase.
     - Puede ejecutar los métodos definidos en la clase.
     - Es una representación concreta de la estructura definida en la clase.
